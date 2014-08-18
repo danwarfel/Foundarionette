@@ -1,0 +1,23 @@
+{
+    "name": "SocialLoop-by-LoopLabs",
+    "title": "LoopLabs SocialLoop Server",
+    "description": "Allows users of LoopLabs to interact socially with other users, sharing and collaborting on projects. Integrates with the Web Audio software. Uses Marionette.js, Require.js, and Zurb's Foundation 5 framework.",
+    "version": "0.3.1",
+    "homepage": "http://looplabs.com",
+    "repository": {
+        "type": "git",
+        "url": "git@bitbucket.org:braunsquared/invisible-looplabs-server.git"
+    },
+    "bugs": {
+        "url": "https://bitbucket.org/braunsquared/invisible-looplabs-server/issues"
+    },
+    "dependencies": {
+        "express": "3.x"
+    },
+    "main": "./server/server",
+    "devDependencies": {
+        "grunt": "~0.4.4",
+        "requirejs": "~2.1.11",
+        "jshint": "~2.4.4"
+    }
+}
