@@ -21,3 +21,4 @@ Thumbs.db
 nbproject
 *.sublime-project
 *.sublime-workspace
+/public
