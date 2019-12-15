@@ -1,16 +1,16 @@
 Foundarionette
 ==============
 
-##Description
+## Description
 
-Foundarionette—the name itself a portmanteau of "Foundation" & "Marionette"—uses Marionette.js & Require.js per usual, but has Zurb's Foundation 5 responsive framework in place for the front-end instead of the usual Twitter Bootstrap front-end responsive framework. 
+Foundarionette—the name itself a portmanteau of "Foundation" & "Marionette"—uses [Marionette.js](https://marionettejs.com/) & [Require.js](https://requirejs.org/) per usual, but has Zurb's Foundation 5 responsive framework in place for the front-end instead of the usual Twitter Bootstrap front-end responsive framework. 
 
-Some people prefer to use Foundation 5, one of the biggest reasons for this being the use of Sass instead of Less. Whatever the case, I hope this helps someone out.
+Some people prefer to use Foundation 5, one of the biggest reasons for this being the use of Sass instead of LESS. Whatever the case, I hope this helps someone out.
 
-The backend is boilerplate Node with Express. Read below for directions on how to get the Node server started locally.
+The back-end is boilerplate Node with Express. Read below for directions on how to get the Node server started locally.
 
 
-##Directions
+## Directions
 
 1.  Install Node.js & clone repo.  
 2.  Install Nodemon library globally.  
@@ -28,7 +28,7 @@ The backend is boilerplate Node with Express. Read below for directions on how t
 9.  Type `grunt` to run build & create minified .js & .css  
 
 
-##Notes
+## Notes
 
 ### Environment
 
